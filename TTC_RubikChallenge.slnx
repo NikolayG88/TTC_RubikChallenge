@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TTC_RubikChallenge.Domain/TTC_RubikChallenge.Domain.csproj" />
+  <Project Path="TTC_RubikChallenge.Tests/TTC_RubikChallenge.Tests.csproj" />
+  <Project Path="TTC_RubikChallenge/TTC_RubikChallenge.csproj" />
+</Solution>
